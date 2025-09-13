@@ -1,22 +1,35 @@
-.mid{
+.mid {
     text-align: center;
 }
-.main{
+
+.main {
     display: flex;
-   gap: 101px;
+    gap: 101px;
 }
-.photo{
+
+.photo {
     text-align: center;
     height: 50%;
     width: 50%;
     border: 1px solid red;
     margin-bottom: 30px;
-  
+
 }
-.text{
+
+.text {
     text-align: center;
     height: 50%;
     width: 50%;
     border: 1px solid red;
 
+}
+
+.ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+li a {
+    text-decoration: none;
 }
