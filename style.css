@@ -1,3 +1,22 @@
 .mid{
     text-align: center;
 }
+.main{
+    display: flex;
+   gap: 101px;
+}
+.photo{
+    text-align: center;
+    height: 50%;
+    width: 50%;
+    border: 1px solid red;
+    margin-bottom: 30px;
+  
+}
+.text{
+    text-align: center;
+    height: 50%;
+    width: 50%;
+    border: 1px solid red;
+
+}
