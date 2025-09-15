@@ -1,3 +1,15 @@
+body{
+    background-color: cyan;
+}
+.ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+li a {
+    text-decoration: none;
+}
 .mid {
     text-align: center;
 }
@@ -12,10 +24,22 @@
     height: 50%;
     width: 50%;
     border: 1px solid red;
-    margin-bottom: 30px;
+   
 
 }
 
+
+.main{ 
+    display: flex; 
+    /* display:  */
+} 
+.pic-mid{
+    margin-top: 50px;
+}
+.pic-mid img{ 
+    height: 50%;
+    width: 50%; 
+}
 .text {
     text-align: center;
     height: 50%;
@@ -24,12 +48,3 @@
 
 }
 
-.ul {
-    display: flex;
-    justify-content: space-between;
-    list-style: none;
-}
-
-li a {
-    text-decoration: none;
-}
