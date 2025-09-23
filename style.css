@@ -18,7 +18,15 @@ body{
     padding: 20px;
     font-weight: 800;
 }
-
+.txt_pic{
+    display: flex;
+}
+.homePic img{
+width: 90%;
+height: 100%;
+border-radius: 3%;
+margin-left: 20px;
+}
 .mid{
     text-align: center;
 }
